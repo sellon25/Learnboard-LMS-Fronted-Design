@@ -15369,18 +15369,18 @@ html body .waves-notransition {
 
 
 .bbg-danger {
-    background-color: #dfc6c66b;
+  /*  background-color: #dfc6c66b;*/
     border: 2px inset #ff000040;
 }
 
 .bbg-good {
-    background-color: #bcbcbd;
+    /*background-color: #bcbcbd;*/
     border: 2px inset green;
 }
 
 
 .bbg-mid {
-    background-color: #a1720047;
+   /* background-color: #a1720047;*/
     border: 2px inset orange;
 }
 
